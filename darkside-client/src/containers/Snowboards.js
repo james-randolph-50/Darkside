@@ -29,4 +29,4 @@ class Snowboards extends Component {
         })
       }
       
-       export default connect(mapStateToProps, { getSnowboards })(Snowboards);
+export default connect(mapStateToProps, { getSnowboards })(Snowboards);
