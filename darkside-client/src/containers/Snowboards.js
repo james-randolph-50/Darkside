@@ -9,7 +9,7 @@ import './Snowboards.css';
 class Snowboards extends Component {
 
     componentDidMount() {
-      this.props.getSnowboards()
+      
     }
 
     render() {
